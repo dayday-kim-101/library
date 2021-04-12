@@ -46,3 +46,8 @@ $ conda create -n rvw_tf21_py36 python=3.6
 $ conda create -n test_tf23_py37 python=3.7
 ...
 ```
+
+# date guide
+```
+210410 : yymmdd
+```
